@@ -132,7 +132,9 @@ El dashboard se construye a partir de los CSV limpios (`orders_clean.csv`, `cata
 
 🔗 **[Ver dashboard](https://drive.google.com/file/d/1no4Op-XiwL-zbQtSixJPenZInxt9z8WL/view?usp=sharing)**
 
-<!-- Agrega aquí capturas del dashboard: ![Overview](images/dashboard_overview.png) -->
+![Vista Overview del dashboard](IMAGES/dashboard_overview.png)
+![Vista Detalle del dashboard](IMAGES/detalle_overview.png)
+![Vista Drill-Through del dashboard](IMAGES/drill_through_overview.png)
 
 ---
 
