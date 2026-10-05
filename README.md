@@ -151,22 +151,24 @@ El dashboard se construye a partir de los CSV limpios (`orders_clean.csv`, `cata
 ## 📁 Estructura del repositorio
 
 ```
-📦 nombre-del-repositorio
-├── 📂 data
-│   ├── raw
+📦 Analisis-de-desempeno-RappiPlus
+├── 📂 DATA
+│   ├── RAW
 │   │   ├── rappiplus_orders_raw.csv
 │   │   ├── rappiplus_catalog.csv
 │   │   └── rappiplus_marketing_spend.csv
-│   └── clean
+│   └── CLEAN
 │       ├── orders_clean.csv
 │       ├── catalog_clean.csv
 │       └── marketing_clean.csv
-├── 📂 notebooks
+├── 📂 NOTEBOOKS
 │   └── Analisis_desempeno_RappiPlus.ipynb
-├── 📂 images
-│   └── dashboard_overview.png
+├── 📂 IMAGES
+│   ├── dashboard_overview.png
+|   ├── detalle_overview.png
+|   └── drill_through_overview.png
 ├── 📄 README.md
-└── 📄 LICENSE
+└── 📄 LICENSE.txt
 ```
 
 ---
@@ -175,7 +177,7 @@ El dashboard se construye a partir de los CSV limpios (`orders_clean.csv`, `cata
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+   git clone https://github.com/alexisjmz88/Analisis-de-desempeno-RappiPlus.git
    ```
 2. Instala las dependencias:
    ```bash
